@@ -10,3 +10,12 @@ header {
   padding: 16px;
   text-align: center;     
 }
+
+nav a {
+  margin-right: 12px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
