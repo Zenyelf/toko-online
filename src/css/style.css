@@ -12,6 +12,7 @@ header {
 }
 
 nav a {
+  background-color: #10fc92; 
   margin-right: 12px;
   text-decoration: none;
 }
